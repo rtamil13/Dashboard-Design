@@ -4,7 +4,7 @@
 This project is a Sales Performance Dashboard built using Power BI.
 It provides insights into sales distribution, product performance, and sales trends based on the dataset provided.
 
-🔑 Key Features
+# Key Features
 
 Total Sales: ₹5.02M
 
@@ -12,7 +12,7 @@ Average Sales per Order: ₹5.02K
 
 Total Quantity Sold: 25K units
 
-📈 Visualizations Included
+# Visualizations Included
 
 KPI Cards
 
@@ -36,7 +36,7 @@ Line Chart: Total Sales by Quantity Sold
 
 Shows sales trend and relationship with quantity sold.
 
-💡 Insights
+ # Insights
 
 Sales are evenly distributed across regions, with North slightly ahead.
 
